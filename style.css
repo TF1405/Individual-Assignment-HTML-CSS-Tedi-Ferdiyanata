@@ -78,7 +78,7 @@ p {
 }
 
 .top-block {
-    margin: auto 0;
+    margin: auto;
     max-width: 24.25em;
     max-height: 100%;
     position: relative;
@@ -130,7 +130,7 @@ p {
     text-align: left;
 }
 
-/* tablet screen, reduce font size */
+
 @media screen and (max-width: 768px){ 
     button {
         margin: 1em 0;
@@ -162,7 +162,7 @@ p {
     }
 }
 
-/* mobile screen */
+/* mobile max-width */
 @media screen and (max-width: 400px) {
 
     img {
