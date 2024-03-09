@@ -91,7 +91,7 @@ p {
 .create-new-account>p {
     font-size: 1.125rem;
     text-align: center;
-    padding-bottom: 30%;
+    margin-bottom: 30%;
 }
 
 .flex-container {
